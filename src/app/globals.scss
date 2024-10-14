@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background: url("https://i.pinimg.com/control/564x/1f/b1/5f/1fb15f51a51b53c287ac1735b49259f7.jpg")
+    center/cover no-repeat;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 1240px;
+  width: 100%;
+  padding: 0 20px;
+  margin: 0 auto;
+}
